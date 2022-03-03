@@ -1,0 +1,179 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 1
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\edulogros_instaladores
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 1|Files Found]
+
+[Package|Paquete de instalación estándar 1|Files Released]
+COPISUBSIST.exe=
+IMPORTANTE.HLP=
+EDULOGROS.HLP=
+COPIPROFES.exe=
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+D:\COPIPROFES.exe=
+D:\COPISUBSIST.exe=
+D:\Edulogros\COPIPROFES.exe=
+D:\Edulogros\COPISUBSIST.exe=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=
+C:\WINDOWS\system32\comctl32.ocx=
+C:\WINDOWS\system32\MSFLXGRD.OCX=
+C:\WINDOWS\SYSTEM\COMCT332.OCX=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\EDULOGROS.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\WINDOWS\SYSTEM\VB6ES.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\FLXGDES.DLL=Yes
+C:\WINDOWS\SYSTEM\comctl32.ocx=Yes
+C:\WINDOWS\SYSTEM\CMCTLES.DLL=Yes
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=Yes
+C:\WINDOWS\SYSTEM\TABCTES.DLL=Yes
+C:\WINDOWS\SYSTEM\COMCT332.OCX=Yes
+C:\WINDOWS\SYSTEM\CMCT3ES.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+D:\EDULOGROS.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\VISUAL STUDIO\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\FLXGDES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCTLES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\TABCTES.DLL=$(WinSysPath)
+D:\VISUAL STUDIO\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\VISUAL STUDIO\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\VISUAL STUDIO\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\COPIPROFES.exe=$(AppPath)
+D:\AYUDA\EDULOGROS.HLP=$(AppPath)
+D:\AYUDA\IMPORTANTE.HLP=$(AppPath)
+D:\COPISUBSIST.exe=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Edulogros\EDULOGROS.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\comctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Edulogros\COPIPROFES.exe=$(AppPath)
+D:\Edulogros\EDULOGROS.HLP=$(AppPath)
+D:\Edulogros\AYUDA\IMPORTANTE.HLP=$(AppPath)
+D:\Edulogros\COPISUBSIST.exe=$(AppPath)
+D:\Edulogros\AYUDA\EDULOGROS.HLP=$(AppPath)
+D:\Edulogros\Edu_Balsa\EDULOGROS.exe=$(AppPath)
+C:\EDULOGROS.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\CMCT3ES.DLL=$(WinSysPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+D:\EDULOGROS.exe=No
+D:\COPIPROFES.exe=No
+D:\AYUDA\EDULOGROS.HLP=No
+D:\AYUDA\IMPORTANTE.HLP=No
+D:\COPISUBSIST.exe=No
+D:\Edulogros\EDULOGROS.exe=No
+D:\Edulogros\COPIPROFES.exe=No
+D:\Edulogros\EDULOGROS.HLP=No
+D:\Edulogros\AYUDA\IMPORTANTE.HLP=No
+D:\Edulogros\COPISUBSIST.exe=No
+D:\Edulogros\AYUDA\EDULOGROS.HLP=No
+D:\Edulogros\Edu_Balsa\EDULOGROS.exe=No
+C:\EDULOGROS.exe=No
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=multi
+Size=1.44 MB
+Title=EDULOGROS V.2.65
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=EDULOGROS
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|EDULOGROS]
+Icon1=EDULOGROS.exe
+Title1=EDULOGROS
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=IMPORTANTE.HLP
+Title2=Información importante
+StartIn2=$(AppPath)
+Key2=Icon7
+Icon3=EDULOGROS.HLP
+Title3=Ayuda de Edulogros
+StartIn3=$(AppPath)
+Key3=Icon6
+Icon4=COPISUBSIST.exe
+Title4=Copiar programa subsistema
+StartIn4=$(AppPath)
+Key4=Icon5
+Icon5=COPIPROFES.exe
+Title5=Copiar programa profes
+StartIn5=$(AppPath)
+Key5=Icon2
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=C:\edulogros_instaladores
+ProjectFolder=C:\EDULOGROS FUENTE
+ServerSideCab=
+File1=C:\edulogros_instaladores\setup.exe
+File2=C:\edulogros_instaladores\Setup.Lst
+File3=C:\edulogros_instaladores\EDULOG1.CAB
+File4=C:\edulogros_instaladores\EDULOG2.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
